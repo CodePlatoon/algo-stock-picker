@@ -1,0 +1,3 @@
+exports.picker = function(prices) {
+
+}

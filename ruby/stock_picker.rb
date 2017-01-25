@@ -1,0 +1,3 @@
+def picker(prices)
+
+end
