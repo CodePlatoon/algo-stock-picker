@@ -1,2 +1,2 @@
 def picker(prices):
-    return None
+    pass
