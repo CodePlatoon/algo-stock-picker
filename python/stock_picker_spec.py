@@ -1,3 +1,5 @@
+# Rewrite this in Unit Test
+
 from stock_picker import picker
 
 print(picker([17,3,6,9,15,8,6,1,10]) == [1,4])
