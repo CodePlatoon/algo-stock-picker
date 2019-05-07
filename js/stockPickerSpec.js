@@ -1,4 +1,6 @@
 // run `npm install shallow-equal --save` in this folder before you get started with this challenge
+// Rewrite this in Unit Test
+
 var sp = require("./stockPicker");
 var shallowEqualArrays = require('shallow-equal/arrays');
 
